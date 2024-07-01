@@ -1,0 +1,51 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+.quiz {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.question-section {
+  margin-bottom: 20px;
+}
+
+.question-count {
+  font-size: 24px;
+}
+
+.question-text {
+  font-size: 18px;
+}
+
+.answer-section button {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  width: 100%;
+  font-size: 16px;
+}
+
+.feedback {
+  margin-top: 20px;
+  font-size: 18px;
+  color: red;
+}
+
+.score-section {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.submit-continue-section {
+  margin-top: 20px;
+}
+
+.submit-continue-section button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
